@@ -88,8 +88,16 @@ display gesture drawing pad, support real-time drawing.
 
 
 
-Game interface: Display gesture control of the baffle ball game scene.
+## Game interface: 
+### 🏏 Gesture-Controlled paddle Ball——Display gesture control of the baffle ball game scene.
 ![Adobe Express - Paddle_game](https://github.com/user-attachments/assets/bfe9f229-7391-41fd-9f0b-4620905ba12b)
+#### 👉👉 Your fingertip’s just morphed into a paddle! Hustle—don’t let that ball hit the ground ⚽!
+
+### 🎮 VR "Pac-Man"——Whether solo or teaming up 👥, dive into hyper-immersive gesture-controlled fun! With a flick of your wrist, navigate the maze like magic 🕶️
+![8月14日 (2)(4)](https://github.com/user-attachments/assets/b481741e-4c83-4dc9-9a8c-1e3a274b85ab)
+#### 🕹️ Solo mode: A tap of your wrist, and your little guy zips along! 🍒 Those pellets are waving hello—swerve left, zip right, don’t let those ghosts catch up! Munch, munch, keep that feast going nonstop～
+![8月14日 (2)(5)](https://github.com/user-attachments/assets/fe460364-28c4-4ba0-a93c-0d761ce60dd3)
+#### 👯 Multiplayer mode: Team up with your buddy and let the chaos begin! 👋 Your wrist sends your guy zipping; theirs guides their pal dashing. Snag pellets, playfully block each other—total hilarity! Who’ll be the first pellet-gobbling champ? Let the battle rage 🎉!
 
 License
 
