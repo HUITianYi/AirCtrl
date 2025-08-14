@@ -99,8 +99,4 @@ display gesture drawing pad, support real-time drawing.
 ![8月14日 (2)(5)](https://github.com/user-attachments/assets/fe460364-28c4-4ba0-a93c-0d761ce60dd3)
 #### 👯 Multiplayer mode: Team up with your buddy and let the chaos begin! 👋 Your wrist sends your guy zipping; theirs guides their pal dashing. Snag pellets, playfully block each other—total hilarity! Who’ll be the first pellet-gobbling champ? Let the battle rage 🎉!
 
-License
 
-This project is open source under the MIT LICENSE - see license file for details.
-
-Feel free to submit an Issue or PR to improve the gesture interaction system!
