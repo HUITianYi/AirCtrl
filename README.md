@@ -81,6 +81,12 @@ display gesture drawing pad, support real-time drawing.
 ![Adobe Express - 8月14日 (2)(1)](https://github.com/user-attachments/assets/5d8c52f1-f78f-4e96-9c57-beb776b41a27)
 #### ✨ Stickers: Browse a cute vault of stickers—flowers, stars, little monsters... Tap to stick 'em, and poof! Tiny surprises bloom in your work～
 ![贴纸draw](https://github.com/user-attachments/assets/e6c0c516-5a98-4f0a-9a21-04eca02682e9)
+#### 👆 Drag: Oops, wrong spot? No sweat! Drag through the air with your fingertip—stickers and lines "obey" and shift. Flexible adjustments, zero hassle!
+![Adobe Express - 8月14日 (2)(2)](https://github.com/user-attachments/assets/b2e10a9e-96ed-4eb3-bd4d-c4c0b203958f)
+#### 🗑️ Clear canvas: Craving a redo? Flash an "erase" gesture and done! Canvas wipes clean in a blink—start fresh, no stress, all fun～
+![Adobe Express - 8月14日 (2)(3)](https://github.com/user-attachments/assets/250cd78c-d3aa-42f0-be15-06722a0a5e1a)
+
+
 
 Game interface: Display gesture control of the baffle ball game scene.
 
