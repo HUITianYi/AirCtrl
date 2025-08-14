@@ -104,3 +104,8 @@ display gesture drawing pad, support real-time drawing.
 ![Adobe Express - face1](https://github.com/user-attachments/assets/691b8493-45cc-4cff-9147-800ba45d9784)
 ## It’s a challenging idea, but I think it’s meaningful. Unfortunately, I’m still working through the details, so I won’t be able to show it at the official demonstration. But if I had more time, I’d keep refining this part to make the system more complete.
 ![Adobe Express - face2](https://github.com/user-attachments/assets/bd5ada67-19e2-45f6-9e4c-08b89826096d)
+
+# A Few Personal Thoughts
+#### I chose this project because I first came across OpenCV a long time ago, and even back then, I found it fascinating—there was something striking about how it could "see" and interpret the world. Getting the chance to dig deeper into it now feels like a natural step forward, and I’m grateful for the opportunity.
+#### I owe a huge thank you to Dr. Kou from the University of Cambridge. His patient guidance these past weeks has been invaluable; he shared so many thoughtful ideas that shaped this project. And I can’t forget the other teachers and classmates who lent their support along the way—this wouldn’t have come together without all of you.
+#### Working on this project has really driven home how advanced computer vision has become. It’s not just about cool tech—it’s a tool that lets us build things that matter, both for ourselves and for the world around us. That realization means a lot.
