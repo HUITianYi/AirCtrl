@@ -5,6 +5,23 @@ AirCtrl is a computer vision-based gesture interaction platform, which captures 
 
 # Key features🗝️
 Multi-modal gesture recognition: support piching🤌, fist clenching✊, five-finger opening🖐️, victory sign✌️, index finger pointing☝️ and other common gestures.
+## Gesture operation Instructions👋
+
+# Pinch gesture: Used for selection or confirmation.
+<img width="424" height="446" alt="0986631bb39042a78ec46cc23ccb3b40" src="https://github.com/user-attachments/assets/f103e887-dc99-43db-8158-8e730731f9d6" />
+
+# Index finger pointing: Controls cursor movement.
+<img width="468" height="522" alt="6ce3d10d7703f7ee52ce126aa3daaa4e" src="https://github.com/user-attachments/assets/4a9e4bf8-3824-409c-b6c1-c4e5207a65a8" />
+
+# Five fingers open: To be determined.
+<img width="524" height="526" alt="fcf82671205070bf350ef950390c1658" src="https://github.com/user-attachments/assets/bf200b3c-94e7-4e18-b09d-cd7303df964d" />
+
+# Closed Fist: To be determined.
+<img width="489" height="508" alt="de6328951338b43b0bb03288956f0db8" src="https://github.com/user-attachments/assets/d57d23bb-9b59-4705-9814-824702572574" />
+
+# Thumb UP: To be determined.
+<img width="503" height="512" alt="b7ed93c5f1657dce84bf18c67a3c635b" src="https://github.com/user-attachments/assets/e5002a4d-f662-49e1-8768-c305b53016ff" />
+
 
 # Enrich interactive scenarios🪄
 ## 🎨 Van Gogh Canvas: 
@@ -49,23 +66,6 @@ Run the main program:
 ```
 python My_Project/main.py
 ```
-## Gesture operation Instructions👋
-
-# Pinch gesture: Used for selection or confirmation.
-<img width="424" height="446" alt="0986631bb39042a78ec46cc23ccb3b40" src="https://github.com/user-attachments/assets/f103e887-dc99-43db-8158-8e730731f9d6" />
-
-# Index finger pointing: Controls cursor movement.
-<img width="468" height="522" alt="6ce3d10d7703f7ee52ce126aa3daaa4e" src="https://github.com/user-attachments/assets/4a9e4bf8-3824-409c-b6c1-c4e5207a65a8" />
-
-# Five fingers open: To be determined.
-<img width="524" height="526" alt="fcf82671205070bf350ef950390c1658" src="https://github.com/user-attachments/assets/bf200b3c-94e7-4e18-b09d-cd7303df964d" />
-
-# Closed Fist: To be determined.
-<img width="489" height="508" alt="de6328951338b43b0bb03288956f0db8" src="https://github.com/user-attachments/assets/d57d23bb-9b59-4705-9814-824702572574" />
-
-# Thumb UP: To be determined.
-<img width="503" height="512" alt="b7ed93c5f1657dce84bf18c67a3c635b" src="https://github.com/user-attachments/assets/e5002a4d-f662-49e1-8768-c305b53016ff" />
-
 
 ## Interface Preview📲
 
