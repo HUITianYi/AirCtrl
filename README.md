@@ -76,9 +76,9 @@ Main menu interface: Shows all available gesture operation modes.
 display gesture drawing pad, support real-time drawing.
 ![Adobe Express - 打开draw](https://github.com/user-attachments/assets/54cb244a-d877-4d7b-944b-b21dd291a18b)
 #### 🖌️ Brushes: Pick from a rainbow of colors, swap tip thickness at will—lines flow smooth as clouds, and sketching starry skies? Total breeze～
-![Adobe Express - 画笔draw](https://github.com/user-attachments/assets/e71a55c8-b693-4c82-bb55-8f217d335ce1)
+![Adobe Express - 8月14日 (2)](https://github.com/user-attachments/assets/f81a1668-53ad-4533-ae30-1197d5a20b18)
 #### 🧽 Erasers: Swish gently to "munch" away wrong strokes, leaving zero traces—spotless! Tweaking your art? So effortless!
-![Adobe Express - 橡皮draw](https://github.com/user-attachments/assets/dfad2a49-97e1-4df8-8e5f-89d3d73a20c6)
+![Adobe Express - 8月14日 (2)(1)](https://github.com/user-attachments/assets/5d8c52f1-f78f-4e96-9c57-beb776b41a27)
 #### ✨ Stickers: Browse a cute vault of stickers—flowers, stars, little monsters... Tap to stick 'em, and poof! Tiny surprises bloom in your work～
 ![贴纸draw](https://github.com/user-attachments/assets/e6c0c516-5a98-4f0a-9a21-04eca02682e9)
 
