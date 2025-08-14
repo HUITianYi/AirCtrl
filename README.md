@@ -89,6 +89,7 @@ display gesture drawing pad, support real-time drawing.
 
 
 Game interface: Display gesture control of the baffle ball game scene.
+![Adobe Express - Paddle_game](https://github.com/user-attachments/assets/bfe9f229-7391-41fd-9f0b-4620905ba12b)
 
 License
 
