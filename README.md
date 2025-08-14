@@ -1,4 +1,6 @@
 # AirCtrl
+<img width="1328" height="1328" alt="创建 Python 项目 GitHub 页面" src="https://github.com/user-attachments/assets/34584a9b-2e17-4ebc-9300-b966b2f1f77a" />
+
 AirCtrl is a computer vision-based gesture interaction platform, which captures hand movements through a camera to achieve contactless interface operation. AirCtrl supports a variety of interactive scenarios, including drawing, games, VR simulation, etc., and is committed to providing users with a more intuitive and convenient operation experience.
 
 # Key features🗝️
@@ -96,7 +98,7 @@ display gesture drawing pad, support real-time drawing.
 ### 🎮 VR "Pac-Man"——Whether solo or teaming up 👥, dive into hyper-immersive gesture-controlled fun! With a flick of your wrist, navigate the maze like magic 🕶️
 ![8月14日 (2)(4)](https://github.com/user-attachments/assets/b481741e-4c83-4dc9-9a8c-1e3a274b85ab)
 #### 🕹️ Solo mode: A tap of your wrist, and your little guy zips along! 🍒 Those pellets are waving hello—swerve left, zip right, don’t let those ghosts catch up! Munch, munch, keep that feast going nonstop～
-![8月14日 (2)(5)](https://github.com/user-attachments/assets/fe460364-28c4-4ba0-a93c-0d761ce60dd3)
+![Adobe Express - 双人1](https://github.com/user-attachments/assets/88a5c5e5-0ea9-47b7-ab38-9fd63d9428d0)
 #### 👯 Multiplayer mode: Team up with your buddy and let the chaos begin! 👋 Your wrist sends your guy zipping; theirs guides their pal dashing. Snag pellets, playfully block each other—total hilarity! Who’ll be the first pellet-gobbling champ? Let the battle rage 🎉!
 
 # Future Plans
