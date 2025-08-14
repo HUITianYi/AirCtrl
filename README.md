@@ -1,4 +1,4 @@
-![Adobe Express - face1](https://github.com/user-attachments/assets/f3f1317c-2af0-405f-989d-1596d4768da9)# AirCtrl
+# AirCtrl
 AirCtrl is a computer vision-based gesture interaction platform, which captures hand movements through a camera to achieve contactless interface operation. AirCtrl supports a variety of interactive scenarios, including drawing, games, VR simulation, etc., and is committed to providing users with a more intuitive and convenient operation experience.
 
 # Key features🗝️
