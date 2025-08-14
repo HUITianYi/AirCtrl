@@ -1,5 +1,5 @@
 # AirCtrl
-<img width="1328" height="1328" alt="创建 Python 项目 GitHub 页面" src="https://github.com/user-attachments/assets/34584a9b-2e17-4ebc-9300-b966b2f1f77a" />
+<img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/fbcc60bc-245f-4004-b75c-59d51b1bdc13" />
 
 AirCtrl is a computer vision-based gesture interaction platform, which captures hand movements through a camera to achieve contactless interface operation. AirCtrl supports a variety of interactive scenarios, including drawing, games, VR simulation, etc., and is committed to providing users with a more intuitive and convenient operation experience.
 
