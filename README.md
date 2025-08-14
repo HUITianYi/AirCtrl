@@ -1,4 +1,4 @@
-# AirCtrl
+![Adobe Express - face1](https://github.com/user-attachments/assets/f3f1317c-2af0-405f-989d-1596d4768da9)# AirCtrl
 AirCtrl is a computer vision-based gesture interaction platform, which captures hand movements through a camera to achieve contactless interface operation. AirCtrl supports a variety of interactive scenarios, including drawing, games, VR simulation, etc., and is committed to providing users with a more intuitive and convenient operation experience.
 
 # Key features🗝️
@@ -99,4 +99,8 @@ display gesture drawing pad, support real-time drawing.
 ![8月14日 (2)(5)](https://github.com/user-attachments/assets/fe460364-28c4-4ba0-a93c-0d761ce60dd3)
 #### 👯 Multiplayer mode: Team up with your buddy and let the chaos begin! 👋 Your wrist sends your guy zipping; theirs guides their pal dashing. Snag pellets, playfully block each other—total hilarity! Who’ll be the first pellet-gobbling champ? Let the battle rage 🎉!
 
-
+# Future Plans
+## In the last day and a half, I’ve been trying to add face recognition to the project. It feels like a natural next step—since we’re already using the camera to capture images, why not make the most of that? My hope is to use it for things like user login, so each person’s drawings, game scores, and settings can be saved separately.
+![Adobe Express - face1](https://github.com/user-attachments/assets/691b8493-45cc-4cff-9147-800ba45d9784)
+## It’s a challenging idea, but I think it’s meaningful. Unfortunately, I’m still working through the details, so I won’t be able to show it at the official demonstration. But if I had more time, I’d keep refining this part to make the system more complete.
+![Adobe Express - face2](https://github.com/user-attachments/assets/bd5ada67-19e2-45f6-9e4c-08b89826096d)
